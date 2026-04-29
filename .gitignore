@@ -1,0 +1,11 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Archives
+*.zip
+
+# Editor files
+.idea/
+.vscode/
+
